@@ -3240,16 +3240,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #536162;
+			background-color: #2a9d8f;
 		}
 
 		.wrapper.style1-alt {
 			background-color: #f3f4ed;
-			color: #000000 !important;
 		}
 
 		.wrapper.style2 {
-			background-color: #424642;
+			background-color: #e9c46a;
 		}
 
 		.wrapper.style2-alt {
@@ -3257,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #c06014;
+			background-color: #f4a261;
 		}
 
 		.wrapper.style3-alt {
@@ -3525,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em;
-		background: #5f4e4e;
+		background: #264653;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3762,14 +3761,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: linear-gradient(to right, #424642, #f3f4ed);
+				background: linear-gradient(to right, #e76f51, #2a9d8f);
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #000000, #ffffff);
-				background-image: -webkit-linear-gradient(to right, #000000, #ffffff);
+				background-image: -moz-linear-gradient(to right, #e76f51, #2a9d8f);
+				background-image: -webkit-linear-gradient(to right, #e76f51, #2a9d8f);
 				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #f3f4ed, #424642);
+				background-image: linear-gradient(to right, #2a9d8f, #e76f51);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
